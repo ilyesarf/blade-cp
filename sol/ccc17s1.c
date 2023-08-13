@@ -5,7 +5,7 @@ int main(){
     scanf("%d", &n);
     int sw[n];
     int se[n];
-    
+
     for (int i=0; i < n; i++){
         int val;
         scanf("%d", &val);
